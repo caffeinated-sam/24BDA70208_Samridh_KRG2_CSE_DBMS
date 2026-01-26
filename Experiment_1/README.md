@@ -1,7 +1,9 @@
 # Library Management System Database
 
 **Student Name:** Samridh Srivastava 
+
 **UID:** 24BDA70208
+
 **Section:** 24_AIT_KRG-G2
 
 ## Aim

@@ -69,7 +69,7 @@ INSERT INTO Employee (emp_id, name, Salary) VALUES
 (15, 'Manish Yadav',     64000);
 ```
 
-![Query Result](output/0.png)
+![Query Result](./output/0.png)
 
 ---
 
